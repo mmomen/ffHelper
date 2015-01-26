@@ -1,0 +1,23 @@
+{
+  "name": "ffHelper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmomen/ffHelper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmomen/ffHelper/issues"
+  },
+  "homepage": "https://github.com/mmomen/ffHelper",
+  "dependencies": {
+    "express": "^4.11.1"
+  }
+}
